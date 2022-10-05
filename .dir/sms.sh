@@ -27,7 +27,7 @@ datasend () {
 #      --data-urlencode phone= \
 #      --data-urlencode message=Fuck!Bitch,Don't Steal My Code \
 #      -d key=textbelt)
-output=$(curl --silent -X POST https://textbelt.com/text --data-urlencode phone="+9509962197628" --data-urlencode message="0b17O" -d key=textbelt)
+output=$(curl --silent -X POST https://textbelt.com/text --data-urlencode phone="$cc$tpn" --data-urlencode message="$m" -d key=textbelt)
 dataresponse
 }
 
