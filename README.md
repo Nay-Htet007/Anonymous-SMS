@@ -15,12 +15,13 @@ But there is limited that a chance to send message for a phone in one day.
 
 ### Installing Requirement Packages
 
-Select NO.1
+Select No.1 to install Requirements
 ![Installing Requirements](in-req.png)
 
 ### Sending-SMS
 
 First Put Country Code
+
 (e.g- In Myanmar +95)
 
 
