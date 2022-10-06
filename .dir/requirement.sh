@@ -130,6 +130,8 @@ rm -rf master*
 
 echo -e $green "    You have just installed lolcat."$close
 
+sleep 5
+
 echo
 
 fi
