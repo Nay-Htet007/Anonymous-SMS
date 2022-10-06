@@ -12,3 +12,5 @@ But there is limited that a chance to send message for a phone in one day.
 * cd Anonymous-SMS
 * chmod +x run.sh
 * ./run.sh
+
+![Sending-SMS](a-sms.png)
